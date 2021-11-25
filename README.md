@@ -1,2 +1,3 @@
-# landing-page-vegan-yoghurt
-This landing page is for practice purposes (HTML/CSS/JavaScript fundamentals)
+# landing page about Vegan Yoghurt
+This landing page is for practice purposes HTML/CSS/JavaScript fundamentals.
+SheCodes Basic: Final Project 
